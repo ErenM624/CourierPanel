@@ -4,7 +4,4 @@ A mobile application that allows you to track courier orders. (Currently availab
 With this application, you can:
 Use the “Share Location” feature to let customers know where you are, add and edit orders using the item-adding options, use the GPS feature to determine customers’ locations and find their addresses more easily.
 
-Currently supports just three languages:
-🇺🇸/🇬🇧 English
-🇪🇸 Español
-🇮🇩 Bahasa Indonesia
+Currently supports just three languages: English, Español and Bahasa Indonesia
